@@ -1,9 +1,7 @@
 # VA
 A webapp for visually impaired people that announces objects detected using user’s phone camera.
 =======
-[Pitch video](./README.md#pitch-video) <br>
-[WIP / For future](./README.md#wip--for-future) <br>
-[License](./README.md#license) <br>
+
 
 
 **VA** is an app for visually impaired people that announces objects detected using user's phone camera.
