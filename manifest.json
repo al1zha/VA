@@ -1,0 +1,17 @@
+{
+    "name":"Visual Assistant",
+    "short_name":"VA",
+    "icons": [{
+        "src": "./assets/logoVA.JPG",
+        "sizes": "1024x1024",
+        "type": "image/jpeg"
+    }],
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "orientation": "portrait",
+    "permissions": [
+        "unlimitedStorage"
+    ]
+}
