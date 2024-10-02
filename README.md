@@ -1,5 +1,4 @@
 # VA
-<<<<<<< HEAD
 A webapp for visually impaired people that announces objects detected using user’s phone camera.
 =======
 [Pitch video](./README.md#pitch-video) <br>
@@ -20,4 +19,3 @@ Our goal is to help visually impaired people to become more independent.
 - [ ] Facial recognition. Each user will have their own pool of people saved in the app for future facial recognition tasks.
 - [ ] Image description. Describe what's in the image.
 - [ ] _'Open with VA'_ on images to do OCR/ facial recognition/ image description.
->>>>>>> 35d1b7f (My project)
